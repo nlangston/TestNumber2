@@ -4,3 +4,4 @@ NormansTestFile01.txt
 NormansTestFile01.txt
 >>>>>>> ffd161e0b20fb591321170ea5e719b7e6501c715
 I just created this test text file.
+Added this information in the local repo file
